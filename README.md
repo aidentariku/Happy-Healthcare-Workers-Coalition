@@ -17,7 +17,7 @@
 * Sara Cass
   * https://github.com/saracasss
 * Susan Miyengi
-
+  * https://github.com/smiyengi
 * Aiden Tariku
   * https://github.com/aidentariku 
 * Brandan Thomas
@@ -25,4 +25,4 @@
 * Naomi Baxter
   * https://github.com/nbaxter6
 * Instructor: Ali Lakhani
-  * 
+  * https://github.com/alakahani
